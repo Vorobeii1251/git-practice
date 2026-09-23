@@ -1,0 +1,17 @@
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.AssemblyInfo.cs
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PhoneBook.exe
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PhoneBook.deps.json
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PhoneBook.runtimeconfig.json
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PhoneBook.dll
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PhoneBook.pdb
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.csproj.Up2Date
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.dll
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\refint\PhoneBook.dll
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.pdb
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\PhoneBook.genruntimeconfig.cache
+C:\Users\Алена\рабочий стол\visual studio\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\PhoneBook.dll
